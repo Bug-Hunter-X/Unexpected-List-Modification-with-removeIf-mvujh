@@ -1,0 +1,1 @@
+This repository demonstrates a common Kotlin error involving the `removeIf` function.  The `removeIf` function modifies the list in place rather than creating a new list, leading to potential unexpected behavior. The solution demonstrates how to create a new list to avoid this issue and discusses alternatives for safer list manipulation.
